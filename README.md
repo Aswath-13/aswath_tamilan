@@ -19,29 +19,30 @@
 
 ```python
 class Aswath:
-    name        = "S. Aswath"
-    username    = "aswath_tamilan"
-    location    = "India"
-    company     = "Huromata (Founder & Managing Director)"
-    
+    name                = 'S. Aswath'
+    username            = 'aswath_tamilan'
+    location            = 'India'
+    company             = 'Huromata'
+    role                = 'Founder & Managing Director'
+
     stack = [
-        "Robotics (ROS/ROS2, SLAM, Autonomous Nav)",
-        "AI/ML (TensorFlow, PyTorch, OpenCV, NLP)",
-        "IoT (Embedded Systems, Sensor Fusion)",
-        "Full-Stack (Python, JS, React, Node.js)",
-        "Drone Systems & Smart Fabrics",
+        'Robotics  →  ROS/ROS2 · SLAM · Autonomous Nav',
+        'AI / ML   →  TensorFlow · PyTorch · OpenCV · NLP',
+        'IoT       →  Embedded Systems · Sensor Fusion',
+        'Web       →  Python · JS · React · Node.js',
+        'Hardware  →  Drone Systems · Smart Fabrics · 3D Print',
     ]
-    
+
     currently_learning = [
-        "Advanced SLAM techniques",
-        "Edge AI deployment",
-        "Multi-robot coordination",
+        'Advanced SLAM & 3D mapping',
+        'Edge AI on embedded hardware',
+        'Multi-robot coordination',
     ]
-    
-    fun_fact = "I build robots by day and dream in ROS2 by night 🤖"
-    
+
+    fun_fact = 'I build robots by day and dream in ROS2 by night 🤖'
+
     def motto(self):
-        return "Ship real, working products — from concept to commercialisation."
+        return 'Ship real, working products — from concept to commercialisation.'
 ```
 
 ---
@@ -101,6 +102,8 @@ class Aswath:
   <img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight&background=0d1117&border=30363d&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" />
 </p>
 
+> 💡 _Streak card above populates live once you start pushing commits to public repos._
+
 ---
 
 ## 📈 Activity Graph
@@ -109,6 +112,8 @@ class Aswath:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FF6B6B&area=true&hide_border=false" />
 </p>
 
+> 💡 _Activity graph populates live from your GitHub commit history._
+
 ---
 
 ## 🏆 Trophy Wall
@@ -116,6 +121,8 @@ class Aswath:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </p>
+
+> 💡 _Trophies unlock as you gain stars, followers, commits, and PRs. Create your first public repo to start earning!_
 
 ---
 
