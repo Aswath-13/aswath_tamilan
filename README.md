@@ -1,3 +1,6 @@
+![Uploading ChatGPT Image Jul 14, 2026, 12_49_38 PM.png…]()
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S.%20ASWATH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%40%20Huromata%20%7C%20Robotics%20%C2%B7%20AI%2FML%20%C2%B7%20IoT%20%C2%B7%20Full-Stack%20%7C%20Building%20real%20products%20from%20concept%20to%20commercialisation&descAlignY=62&descSize=15" />
 </p>
