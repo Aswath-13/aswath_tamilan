@@ -1,4 +1,10 @@
-![Uploading ChatGPT Image Jul 14, 2026, 12_49_38 PM.png…]()
+<p align="center">
+  <img
+    src="./assets/github-profile-banner.png"
+    alt="Aswath GitHub Profile Banner"
+    width="100%"
+  />
+</p>
 
 
 <p align="center">
