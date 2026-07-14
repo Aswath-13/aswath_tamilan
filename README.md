@@ -1,9 +1,7 @@
 <p align="center">
-  <img
-    src="./assets/github-profile-banner.png"
-    alt="Aswath GitHub Profile Banner"
-    width="100%"
-  />
+  <img src="./github-profile-banner.png"
+       alt="Aswath GitHub Profile Banner"
+       width="100%">
 </p>
 
 
